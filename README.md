@@ -1,6 +1,5 @@
 # GISData
 analyze the relationship between public health outcomes and air quality data using Geographic Information Systems (GIS)
-Here's a sample README template for your GIS data analysis project. You can customize it further based on your specific needs and audience.
 
 
 ## Features
@@ -60,19 +59,9 @@ The script utilizes the Python `logging` library to track the process and log an
 - PDF map of the analysis saved in the specified directory.
 - Mean Squared Error of the predictive model logged in the console.
 
-## Contributing
-
-Contributions are welcome! Please open an issue or submit a pull request for any improvements or bug fixes.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Acknowledgements
 
 - Thanks to the developers of ArcGIS and the libraries used in this project.
 - Inspired by the need for better understanding of health impacts due to air quality.
 
----
-
-Feel free to adjust any sections to fit your project better!
